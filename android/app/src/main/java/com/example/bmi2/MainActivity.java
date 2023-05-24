@@ -1,4 +1,4 @@
-package com.example.bmi_starting;
+package com.example.bmi2;
 
 import io.flutter.embedding.android.FlutterActivity;
 
